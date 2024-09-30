@@ -1,0 +1,1 @@
+# text-extrtaction-using-easyocr
