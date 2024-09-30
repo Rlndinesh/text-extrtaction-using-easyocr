@@ -1,8 +1,8 @@
 # text-extrtaction-using-easyocr
 #Install the libraries:
-bash ```
+```
 pip install Flask Pillow pytesseract
 ```
-''' bash
+``` bash
 pip install easyocr
 '''
