@@ -5,4 +5,8 @@ pip install Flask Pillow pytesseract
 ```
 ``` bash
 pip install easyocr
-'''
+```
+Run
+``` bash
+python app.py
+```
